@@ -1,0 +1,108 @@
+.naya{
+    background: rgb(15 15 15 / 7%);
+    text-align: center;
+    height: 200px;
+
+}
+nav{
+background-image: url('images/background4.jpg');
+
+}
+h2{
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+select{
+background-image: url('images/background2.jpg');
+}
+
+h3{
+    
+}
+body {
+  background-image: url('images/background3.jpg');
+}
+
+.carousel-inner 
+{
+    width: auto;
+    height: 600px;
+}  
+
+.row{
+    margin-top: 8px;
+}
+
+.naya2{
+    height: 200px;
+}
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.fa {
+    padding: 20px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+  
+.fa:hover {
+    opacity: 0.9;
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+  .fa-instagram {
+    background: #125688;
+    color: white;
+}
+  
+.naya3{
+    height: 100px;
+    background: rgb(247, 245, 245);
+background-image: url('images/background2.jpg');
+}
+
+
+
+footer {
+    background: rgb(102, 102, 102);
+    height: 60px;
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(255, 255, 255);
+    padding: 20px;
+}
+.container{
+background-image: url('images/background2.jpg');
+}
+.header {
+    background-color: #F5F5F5;
+    color: coral;
+    height: 70px;
+    font-size: 27px;
+    padding: 10px;
+}
+
+a{
+color: #01448d
+}
+
+.btn-primary{
+    background-color: #033b77;
+border-color: #023163
+}
+.col-12{
+background: rgb(15 15 15 / 7%)
+}
+article{
+background: rgb(15 15 15 / 7%)
+}
+a {
+    color: #01448d;
+}
