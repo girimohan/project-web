@@ -1,6 +1,8 @@
 # Gym Website
 
 Welcome to the Gym Website project! This repository hosts the source code for a fully functional gym website developed from the ground up using HTML, CSS, PHP, JavaScript, and more. The purpose of this README is to provide you with essential information about the project.
+### visit the site
+https://girimohan.github.io/project-web/index.html
 
 ## Table of Contents
 
